@@ -1,0 +1,14 @@
+/* Apply flexbox layout to the body element */
+body {
+    display: flex; /* Use flex container */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Set the height of the body to 100% of the viewport height */
+    margin: 0; /* Remove default margin */
+  }
+  
+  /* Style the canvas element */
+  canvas {
+    border: 1px solid #000; /* Add a 1px solid black border to the canvas */
+  }
+  
